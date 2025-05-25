@@ -1,13 +1,14 @@
 Start
 Input text
-Define search parameter string: "error"
-Create a loop that searches for "error"
-All words searched?
+Define string "text"
+Define string "error"
+Create a loop that searches "text" for "error"
+Entire text searched?
   If yes: End
   If no: Go to next word
   Search for "error"
     Contains "error"?
-      If no: Continue searching words
-      If yes: Create variable "count error" and set at 0
-        Then add 1 to "count error"
-        Then go to next word
+      If no: Repeat step "Entire text searched?"
+      If yes: Create variable "match_count" and set at 0
+        Then add 1 to "match_count"
+        Then repeat step "Entire text searched?"
