@@ -1,3 +1,7 @@
+Codecademy: Full-Stack Engineer Path
+
+Web Development Foundations
+
 ==================
 
 Lessons associated with my project tasks:
@@ -11,3 +15,7 @@ HTML Cheatsheet - Displaying Websites Locally
 Style Guide - Improved Styling with CSS
 
 Tea Cozy - Layout with Flexbox
+
+Company Website - Creating a Responsive Website
+
+===================
