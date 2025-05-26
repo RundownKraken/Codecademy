@@ -1,0 +1,75 @@
+body {
+  color: #000000;
+  background-color: #d7e0ea;
+}
+
+header {
+  background-image: url(blue.jpg);
+  text-align: center;
+  padding: 50px 0px;
+  font-size: 36;
+  border: 2px solid black;
+}
+
+h1 {
+  color: #000000;
+  font-family: 'Bebas Neue';
+}
+
+h2 {
+  color: #000000;
+  font-family: 'Fjalla One';
+}
+
+h3 {
+  font-family: 'Open Sans';
+}
+
+p, ul {
+  font-family: 'Roboto';
+}
+
+.colors, .fonts, .styles {
+  border: 5px solid black;
+  padding: 0px 20px;
+}
+
+.bebas-neue {
+  font-family: 'Bebas Neue';
+}
+
+.fjalla-one {
+  font-family: 'Fjalla One';
+}
+
+.open-sans {
+  font-family: 'Open Sans';
+}
+
+.roboto {
+  font-family: 'Roboto';
+}
+
+.purple {
+  background-color: #d533ff;
+  color: #000000;
+  border: 2px solid black;
+}
+
+.cyan {
+  background-color: #33eaff;
+  color: #000000;
+  border: 2px solid black;
+}
+
+.grey {
+  background-color: #535E60;
+  color: #ffffff;
+  border: 2px solid white;
+}
+
+.black {
+  background-color: #000000;
+  color: #ffffff;
+  border: 2px solid white;
+}
