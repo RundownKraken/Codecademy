@@ -9,3 +9,5 @@ Dasmoto's Arts and Crafts - Introduction to CSS
 HTML Cheatsheet - Displaying Websites Locally
 
 Style Guide - Improved Styling with CSS
+
+Tea Cozy - Layout with Flexbox
